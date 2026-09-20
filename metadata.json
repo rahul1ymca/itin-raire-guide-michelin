@@ -1,0 +1,6 @@
+{
+  "name": "Itinéraire Guide Michelin - Le Guide Complet",
+  "description": "Guide complet et optimisé pour préparer votre itinéraire Guide Michelin : calcul de trajet, péages, carburant, cartes et étapes gastronomiques.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
